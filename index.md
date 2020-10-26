@@ -1,5 +1,5 @@
 # Portfolio for Nathan Kendrick
-*Sciolus* _Latin, 2nd declension, masculine_ : smatterer, one with little knowledge
+**Sciolus** _Latin, 2nd declension, masculine_ : smatterer, one with little knowledge
 
 ## Portfolio
 ### Python Programs
