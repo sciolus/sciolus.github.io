@@ -2,9 +2,9 @@
 _Latin, 2nd declension, masculine_ smatterer, one with little knowledge
 
 ## Portfolio
-'''
+
 print("Hello World")
-'''
+
 ###FreeCodeCamp Responsive Web Design
 -[Project 1: Tribute Page](https://codepen.io/sciolus/pen/rNxKNgG)
 -[Project 2: Survey Form](https://codepen.io/sciolus/pen/bGEZpMy)
