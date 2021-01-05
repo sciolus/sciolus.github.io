@@ -8,9 +8,9 @@
 Kidding. I just don't have any uploaded yet.
 
 #### FreeCodeCamp Responsive Web Design
-1. Tribute Page: [Tribute to Michael Collins](https://codepen.io/sciolus/pen/rNxKNgG)
-2. Survey Form: [Spam Sign-up](https://codepen.io/sciolus/pen/bGEZpMy)
-3. Product Landing Page: _under construction_
+1. Tribute Page: [Tribute Page](https://codepen.io/sciolus/full/rNxKNgG)
+2. Survey Form: [Survey Form](https://codepen.io/sciolus/full/bGEZpMy)
+3. Product Landing Page: [Product Landing Page] (https://codepen.io/sciolus/full/yLJvXLy)
 
 ### Books
 
