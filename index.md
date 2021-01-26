@@ -1,13 +1,8 @@
 **Sciolus** _Latin, 2nd declension, masculine_ : smatterer, one with little knowledge
 
-# Portfolio
+# Learning Resources and Projects
 
-#### Python Programs
-```print("Hello World")```
-
-Kidding. I just don't have any uploaded yet.
-
-#### FreeCodeCamp Responsive Web Design
+### freeCodeCamp Responsive Web Design
 1. Tribute Page: [Tribute to Michael Collins](https://codepen.io/sciolus/full/rNxKNgG)
 2. Survey Form: [Spam Customizer Form](https://codepen.io/sciolus/full/bGEZpMy)
 3. Product Landing Page: [Puppies!!](https://codepen.io/sciolus/full/yLJvXLy)
@@ -28,5 +23,5 @@ Kidding. I just don't have any uploaded yet.
 #### In Progress
 - [Python for Data Science and Machine Learning Bootcamp (Jose Portilla)](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 
-## One-Year Goal
-Front-end web development and data analysis skills sufficient to scrape, wrangle, and visualize heretofor obscure data and publish to a small web site.
+## Eventual Goal
+Front-end web and data analysis skills sufficient to scrape, wrangle, and visualize heretofor obscure local data and publish to a small web site.
