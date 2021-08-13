@@ -6,7 +6,7 @@
 1. Tribute Page: [Tribute to Michael Collins](https://codepen.io/sciolus/full/rNxKNgG)
 2. Survey Form: [Spam Customizer Form](https://codepen.io/sciolus/full/bGEZpMy)
 3. Product Landing Page: [Puppies!!](https://codepen.io/sciolus/full/yLJvXLy)
-4. Technical Documentation Page: __under construction__
+4. Technical Documentation Page: [Intro to Coding](https://codepen.io/sciolus/full/KKNGajq)
 5. Personal Portfolio Webpage: 
 
 ### Books
