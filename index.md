@@ -1,8 +1,8 @@
 **Sciolus** _Latin, 2nd declension, masculine_ : smatterer, one with little knowledge
 
 # Published Work
-[Warner Youth Sports Association](https://warnersports.org/)
-[Warner Citizen Advocate](https://warnercitizenadvocate.net/) (Under Construction)
+- [Warner Youth Sports Association](https://warnersports.org/)
+- [Warner Citizen Advocate](https://warnercitizenadvocate.net/) (Under Construction)
 
 # Learning Resources and Projects
 
