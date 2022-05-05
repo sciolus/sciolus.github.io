@@ -1,10 +1,17 @@
 **Sciolus** _Latin, 2nd declension, masculine_ : smatterer, one with little knowledge
 
-# Published Work
-- [Warner Youth Sports Association](https://warnersports.org/)
+[freeCodeCamp profile](https://www.freecodecamp.org/sciolus)
+
+----
+
+## Published Work
+- [Warner Youth Sports Association](https://warnersports.org/) (Public, maintained)
 - [Warner Citizen Advocate](https://warnercitizenadvocate.net/) (Under Construction)
 
-# Learning Resources and Projects
+
+## Learning Resources and Projects
+
+### freeCodeCamp JavaScript Algorithms and Data Structures (COMPLETED)
 
 ### freeCodeCamp Responsive Web Design (COMPLETED)
 1. Tribute Page: [Tribute to Michael Collins](https://codepen.io/sciolus/full/rNxKNgG)
@@ -21,9 +28,6 @@
 
 #### Completed
 - [Master Math by Coding in Python (Mike X Cohen)](https://www.udemy.com/course/math-with-python/)
-
-#### In Progress
-- [Python for Data Science and Machine Learning Bootcamp (Jose Portilla)](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 
 ## Eventual Goal
 Front-end web and data analysis skills sufficient to scrape, wrangle, and visualize heretofor obscure local data and publish to a small web site.
