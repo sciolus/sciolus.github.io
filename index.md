@@ -8,12 +8,15 @@
 - [Warner Youth Sports Association](https://warnersports.org/) (Public, maintained)
 - [Warner Citizen Advocate](https://warnercitizenadvocate.net/) (Under Construction)
 
+---
 
 ## Learning Resources and Projects
 
-### freeCodeCamp JavaScript Algorithms and Data Structures (COMPLETED)
+### freeCodeCamp JavaScript Algorithms and Data Structures 
+(COMPLETED)
 
-### freeCodeCamp Responsive Web Design (COMPLETED)
+### freeCodeCamp Responsive Web Design 
+(COMPLETED)
 1. Tribute Page: [Tribute to Michael Collins](https://codepen.io/sciolus/full/rNxKNgG)
 2. Survey Form: [Spam Customizer Form](https://codepen.io/sciolus/full/bGEZpMy)
 3. Product Landing Page: [Puppies!!](https://codepen.io/sciolus/full/yLJvXLy)
