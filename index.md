@@ -1,3 +1,8 @@
+---
+title: Sciolus Blog 
+description: A blog and portfolio, of sorts
+---
+
 ## Blog Posts
 
 -  03/31/23: [First Post](/first-post.md)
@@ -12,13 +17,13 @@
 - [Warner Citizen Advocate](https://warnercitizenadvocate.net/)
 
 ### freeCodeCamp ([profile](https://www.freecodecamp.org/sciolus))
-1. Responsive Web Design (COMPLETED)
+#### Responsive Web Design (COMPLETED)
   1. Tribute Page: [Tribute to Michael Collins](https://codepen.io/sciolus/full/rNxKNgG)
   2. Survey Form: [Spam Customizer Form](https://codepen.io/sciolus/full/bGEZpMy)
   3. Product Landing Page: [Puppies!!](https://codepen.io/sciolus/full/yLJvXLy)
   4. Technical Documentation Page: [Intro to Coding](https://codepen.io/sciolus/full/KKNGajq)
   5. Personal Portfolio Webpage: [Portfolio Page](https://codepen.io/sciolus/full/mdOogNg)
-2. JavaScript Algorithms and Data Structures (COMPLETED)
+#### JavaScript Algorithms and Data Structures (COMPLETED)
 
 ### Books Used
 - _Learn Python 3 the Hard Way_ (Zed A. Shaw)
