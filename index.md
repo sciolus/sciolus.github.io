@@ -1,8 +1,8 @@
-    **Sciolus** _Latin, 2nd declension, masculine_ : smatterer, one with little knowledge
-
 ## Blog
 
-### 3/31/23 [First Post](/first-post.md)
+-  03/31/23: [First Post](/first-post.md)
+
+---
 
 ## Learning Web Coding and Python
 
@@ -26,3 +26,6 @@
 
 ### Udemy Courses Completed
 - [Master Math by Coding in Python (Mike X Cohen)](https://www.udemy.com/course/math-with-python/)
+
+---
+**Sciolus** _Latin, 2nd declension, masculine_ : smatterer, one with little knowledge
