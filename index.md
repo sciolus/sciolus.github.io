@@ -29,4 +29,3 @@
 
 ### Udemy Courses Completed
 - [Master Math by Coding in Python (Mike X Cohen)](https://www.udemy.com/course/math-with-python/)
-ysis skills sufficient to scrape, wrangle, and visualize heretofor obscure local data and publish to a small web site.
