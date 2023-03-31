@@ -1,11 +1,8 @@
-**Sciolus** _Latin, 2nd declension, masculine_ : smatterer, one with little knowledge
-----
+    **Sciolus** _Latin, 2nd declension, masculine_ : smatterer, one with little knowledge
 
 ## Blog
 
-3/31/23 [First Post](/first-post.md)
-
----
+### 3/31/23 [First Post](/first-post.md)
 
 ## Learning Web Coding and Python
 
