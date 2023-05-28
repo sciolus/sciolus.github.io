@@ -23,6 +23,7 @@ description: A blog and portfolio, of sorts
   3. Product Landing Page: [Puppies!!](https://codepen.io/sciolus/full/yLJvXLy)
   4. Technical Documentation Page: [Intro to Coding](https://codepen.io/sciolus/full/KKNGajq)
   5. Personal Portfolio Webpage: [Portfolio Page](https://codepen.io/sciolus/full/mdOogNg)
+
 #### JavaScript Algorithms and Data Structures (COMPLETED)
 
 ### Books Used
