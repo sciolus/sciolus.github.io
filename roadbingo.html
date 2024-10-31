@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang=en>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+    <title>Road Bingo</title>
+    <link rel="stylesheet" href="roadbingo.css">
+</head>
+
+<body>
+    <header>
+        <h1>Road Bingo</h1>
+    <div class="button-container noprint">
+        <button id="resetButton">
+            Reset
+        </button>
+        <input type="button" class="button" value="Print" onClick="window.print()">
+    </div>
+    </header>
+
+    <div class="bingo-container">
+        <h2>Player 1</h2>
+        <div class="bingo-card" id="bingoCard1">
+        </div>
+        <h2>Player 2</h2>
+        <div class="bingo-card" id="bingoCard2">
+        </div>
+    </div>
+    <p>
+    SVG graphics mostly from <a href="https://www.svgrepo.com/" target=_blank>
+        SVGREPO.COM</a> and 
+        <a href="https://commons.wikimedia.org/wiki/Main_Page" target=_blank>
+        WikiMedia Commons</a>
+    </p>
+</body>
+<script src="roadbingo.js"></script>
+</html>
