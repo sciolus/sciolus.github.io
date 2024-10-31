@@ -5,10 +5,7 @@ description: A basic portfolio of current and completed coding projects.
 ## Web Site Portfolio
 - [Pillsbury Free Library](https://pfl.warnernh.gov/) (Under Construction)
 - [Warner Youth Sports Association](https://warnersports.org/)
-
----
-
-My learning blog: [sciolus.bearblog.dev](https://sciolus.bearblog.dev/)
+- [Road Bingo Generator](roadbingo.html)
 
 ---
 
