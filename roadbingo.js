@@ -25,7 +25,7 @@ const ICONS = {
     20: "dump-truck",  
     21: "deer-crossing",
     22: "us-flag",  
-    23: "openese-flag",  
+    23: "open-flag",  
     24: "hospital",
     25: "moose",  
     26: "helicopter",  
