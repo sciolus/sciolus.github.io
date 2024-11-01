@@ -5,7 +5,7 @@ const CELLS = 63;
 const ICONS = {
     1: "stop", 
     2: "yield",
-    3: "crosswalk",
+    3: "rebel-flag",
     4: "do-not-enter",
     5: "tow-truck", 
     6: "electric-car",
