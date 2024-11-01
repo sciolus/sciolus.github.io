@@ -5,7 +5,7 @@ const CELLS = 63;
 const ICONS = {
     1: "stop", 
     2: "yield",
-    3: "rebel-flag",
+    3: "scenic-area",
     4: "do-not-enter",
     5: "tow-truck", 
     6: "electric-car",
@@ -25,7 +25,7 @@ const ICONS = {
     20: "dump-truck",  
     21: "deer-crossing",
     22: "us-flag",  
-    23: "rebel-flag",  // missing
+    23: "rebel-flag",  
     24: "hospital",
     25: "moose",  
     26: "helicopter",  
@@ -38,10 +38,10 @@ const ICONS = {
     33: "one-way",
     34: "rainbow",
     35: "digger",  
-    36: "oversize-load",  // missing
+    36: "oversize-load",  
     37: "silo",  
     38: "derelict-house",  
-    39: "pedestrian-crossing",  // missing
+    39: "pedestrian-crossing",  
     40: "police-car",  
     41: "porta-potty",  // missing
     42: "crane",  
