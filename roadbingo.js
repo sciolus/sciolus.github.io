@@ -41,7 +41,7 @@ const ICONS = {
     36: "oversize-load",  // missing
     37: "silo",  
     38: "derelict-house",  
-    39: "pink-car",  // missing
+    39: "pedestrian-crossing",  // missing
     40: "police-car",  
     41: "porta-potty",  // missing
     42: "crane",  
