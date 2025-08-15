@@ -1,5 +1,5 @@
 ---
-title: Sciolus.github.io
+title: sciolus.github.io
 description: A basic portfolio of current and completed coding projects.
 ---
 ## Web Site Portfolio
